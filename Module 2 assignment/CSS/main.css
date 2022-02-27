@@ -51,7 +51,7 @@ p {
 }
 
 @media (min-width:992px) and (max-width: 1200px) {
-	#box1, #box2, #box3 {
+#box1, #box2, #box3 {
 	width: 31.33%;
 	background: gray;
 	font-family: sans-serif;
@@ -88,7 +88,7 @@ p {
 }
 
 @media (min-width:768px) and (max-width: 991px) {
-	#box1, #box2 {
+#box1, #box2 {
 	width: 48%;
 	background: gray;
 	font-family: sans-serif;
@@ -134,7 +134,7 @@ p {
 }
 
 @media (max-width:767px) {
-	#box1, #box2, #box3 {
+#box1, #box2, #box3 {
 	width: 98%;
 	background: gray;
 	font-family: sans-serif;
